@@ -1,7 +1,7 @@
 # dartpract-5
 <strong>Задание № 1: </strong>Получение данных о погоде
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/1.jpg)
-<strong>Задание № 2: </strong>Поиск фильмов
+<strong>Задание № 2: </strong>Поиск фильмов 
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/2.jpg)
 <strong>Задание № 3: </strong>Получение курса валют
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/3.jpg)
