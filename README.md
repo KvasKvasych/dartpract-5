@@ -26,7 +26,8 @@
 <strong>Задание № 13: </strong> Получение курса валют с использованием библиотеки http и обработкой ошибок
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/13.jpg)
 <strong>Задание № 14: </strong>Получение новостей с использованием библиотеки http и обработкой ошибок
-![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/14.jpg)
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/14.1.jpg)
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/14.2.jpg)
 <strong>Задание № 15: </strong>Получение данных о GitHub пользователе с использованием библиотеки http и обработкой ошибок
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/15.jpg)
 <strong>Задание № 16: </strong>Получение данных о погоде с использованием библиотеки dio и обработкой ошибок
