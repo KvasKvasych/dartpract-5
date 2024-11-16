@@ -1,5 +1,5 @@
 # dartpract-5
-<br><strong>Задание № 1: </strong>Получение данных о погоде</br>
+<br><strong>Задание № 1: </strong>Получение данных о погоде</br> 
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/1.jpg)
 <br><strong>Задание № 2: </strong>Поиск фильмов </br>
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/2.jpg)
