@@ -40,3 +40,19 @@
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/19.jpg)
 <br><strong>Задание № 20: </strong>Получение данных о GitHub пользователе с использованием библиотеки dio и обработкой ошибок</br>
 ![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
+<br><strong>Задание № 1: </strong>ГЕнератор случайных цитат</br>
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
+<br><strong>Задание № 2: </strong>Поиск книг</br>
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
+<br><strong>Задание № 5: </strong>Генератор случайных картинок</br>
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
+<br><strong>Задание № 6: </strong>Поиск Gif-изображений</br>
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
+<br><strong>Задание № 8: </strong>Поиск рецептов</br>
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
+<br><strong>Задание № 10: </strong>Генератор случайных фактов</br>
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
+<br><strong>Задание № 19: </strong>Генератор случайных паролей</br>
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
+<br><strong>Задание № 24: </strong>Поиск Gif-изображений с использованием библиотеки dio</br>
+![](https://github.com/kvaskvasych/dartpract-5/raw/main/practdart5/20.jpg)
